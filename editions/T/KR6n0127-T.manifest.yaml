@@ -1,0 +1,672 @@
+canonical_identifier: bkk:krp/KR6n0127/T/v1
+canonical_location: https://kanripo.org/bkk/KR6n0127/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 勸發菩提心集
+  identifiers:
+    krp: KR6n0127
+    cbeta: T45n1862
+    cbeta_old_id: T45n1862
+    authorityid: CA0002613
+    json_key: T1862
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1862.xml
+    old_id: T45n1862
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0127_000-T.yaml, hash: 'sha256:cd95482bbbd302c0e2a7539ce8aafaaa5eb9efcf7fe5e61a64e2171a3ad99389'}
+  - {seq: 1, filename: KR6n0127_001-T.yaml, hash: 'sha256:1ec312141eb3ab68153f4b98acbee00dd8337b6cc4515b775f1651ecdee54d7a'}
+  - {seq: 2, filename: KR6n0127_002-T.yaml, hash: 'sha256:eb40d4cdb6173310148392119610fcd18e17e0f3b9ea2253732bf05816b180db'}
+  - {seq: 3, filename: KR6n0127_003-T.yaml, hash: 'sha256:bdde5ecf644047b99ee15898397131978f3d3a3df2537acddc4f2779d2381eff'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0127_000-T.markers.yaml, hash: 'sha256:f26ea88190b8cbdc050d34a43d08c1f3cf66e59e761324370f388436976b3aad'}
+  - {seq: 1, role: markers, filename: assets/KR6n0127_001-T.markers.yaml, hash: 'sha256:8ef0f897932cdf15d645dc885637f85c65b376ee964cae8f5782328738662b9d'}
+  - {seq: 2, role: markers, filename: assets/KR6n0127_002-T.markers.yaml, hash: 'sha256:109299fbe427e59c8dd4937fda0e75b4d34b5dfa6bd62540d21cb19ba22b2dc6'}
+  - {seq: 3, role: markers, filename: assets/KR6n0127_003-T.markers.yaml, hash: 'sha256:16c2e2757948c65d69a62f45846abb91c58b66ceaf4befd613cec372afa72866'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0127_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 12936
+  label: 勸發菩提心集卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0127_T_001-mulu-1
+    span:
+    - body
+    - 80
+    - 80
+  label: 第一明菩薩種姓相門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0127_T_001-mulu-2
+    span:
+    - body
+    - 1063
+    - 1063
+  label: 明發心因緣門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0127_T_001-mulu-3
+    span:
+    - body
+    - 2459
+    - 2459
+  label: 顯勝門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0127_T_001-mulu-4
+    span:
+    - body
+    - 3822
+    - 3822
+  label: 譬喻讚歎門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0127_T_001-mulu-5
+    span:
+    - body
+    - 5250
+    - 5250
+  label: 勸發勝劣重廣門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0127_T_001-mulu-6
+    span:
+    - body
+    - 7273
+    - 7273
+  label: 立誓發願門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0127_T_001-mulu-7
+    span:
+    - body
+    - 8604
+    - 8604
+  label: 復說發心及哀愍門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0127_T_001-mulu-8
+    span:
+    - body
+    - 9753
+    - 9753
+  label: 雜明修行及退不退門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0127_T_001-mulu-9
+    span:
+    - body
+    - 11462
+    - 11462
+  label: 依觀普賢菩薩經懺悔受戒門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0127_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 17095
+  label: 勸發菩提心集卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0127_T_002-mulu-1
+    span:
+    - body
+    - 98
+    - 98
+  label: 一讚受戒門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0127_T_002-mulu-2
+    span:
+    - body
+    - 543
+    - 543
+  label: 顯過門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0127_T_002-mulu-3
+    span:
+    - body
+    - 798
+    - 798
+  label: 勸持門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0127_T_002-mulu-4
+    span:
+    - body
+    - 4073
+    - 4073
+  label: 護戒門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0127_T_002-mulu-5
+    span:
+    - body
+    - 4409
+    - 4409
+  label: 受意門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0127_T_002-mulu-6
+    span:
+    - body
+    - 4563
+    - 4563
+  label: 受益門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0127_T_002-mulu-7
+    span:
+    - body
+    - 5122
+    - 5122
+  label: 受正門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0127_T_002-mulu-8
+    span:
+    - body
+    - 7339
+    - 7339
+  label: 受戒得益門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0127_T_002-mulu-9
+    span:
+    - body
+    - 8387
+    - 8387
+  label: 受十善戒門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0127_T_002-mulu-10
+    span:
+    - body
+    - 9702
+    - 9702
+  label: 讚忍護戒門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0127_T_002-mulu-11
+    span:
+    - body
+    - 10995
+    - 10995
+  label: 白衣互受門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0127_T_002-mulu-12
+    span:
+    - body
+    - 11334
+    - 11334
+  label: 供養門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0127_T_002-mulu-13
+    span:
+    - body
+    - 12112
+    - 12112
+  label: 供養見利門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0127_T_002-mulu-14
+    span:
+    - body
+    - 13160
+    - 13160
+  label: 障治門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0127_T_002-mulu-15
+    span:
+    - body
+    - 13315
+    - 13315
+  label: 勝劣門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0127_T_002-mulu-16
+    span:
+    - body
+    - 14005
+    - 14005
+  label: 善友門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0127_T_002-mulu-17
+    span:
+    - body
+    - 15478
+    - 15478
+  label: 雜行門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0127_T_002-mulu-18
+    span:
+    - body
+    - 16040
+    - 16040
+  label: 婦行門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 17620
+  label: 勸發菩提心集卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-1
+    span:
+    - body
+    - 234
+    - 234
+  label: 大唐三藏法師傳西域正法藏受菩薩戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-2
+    span:
+    - body
+    - 2377
+    - 2377
+  label: 得捨門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-3
+    span:
+    - body
+    - 3016
+    - 3016
+  label: 自受菩薩戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-4
+    span:
+    - body
+    - 3244
+    - 3244
+  label: 八勝五想門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-5
+    span:
+    - body
+    - 3396
+    - 3396
+  label: 聽法儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-6
+    span:
+    - body
+    - 4346
+    - 4346
+  label: 說法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-7
+    span:
+    - body
+    - 4465
+    - 4465
+  label: 攝生方便門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-8
+    span:
+    - body
+    - 4711
+    - 4711
+  label: 求法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-9
+    span:
+    - body
+    - 4936
+    - 4936
+  label: 入法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-10
+    span:
+    - body
+    - 5224
+    - 5224
+  label: 應護正法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-11
+    span:
+    - body
+    - 5408
+    - 5408
+  label: 六度十種分別門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-12
+    span:
+    - body
+    - 6898
+    - 6898
+  label: 七似饒益門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-13
+    span:
+    - body
+    - 7452
+    - 7452
+  label: 菩薩五悕望門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-14
+    span:
+    - body
+    - 7495
+    - 7495
+  label: 六決定應作門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-15
+    span:
+    - body
+    - 7739
+    - 7739
+  label: 六度九種分別門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-16
+    span:
+    - body
+    - 12630
+    - 12630
+  label: 五相名波羅蜜門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-17
+    span:
+    - body
+    - 12776
+    - 12776
+  label: 七相施等清淨門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-18
+    span:
+    - body
+    - 13851
+    - 13851
+  label: 七非田不應施與門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-19
+    span:
+    - body
+    - 13950
+    - 13950
+  label: 四攝如度九種門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-20
+    span:
+    - body
+    - 15970
+    - 15970
+  label: 各九得果門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-21
+    span:
+    - body
+    - 16152
+    - 16152
+  label: 十業得短命報門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-22
+    span:
+    - body
+    - 16246
+    - 16246
+  label: 十業長壽報門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-23
+    span:
+    - body
+    - 16341
+    - 16341
+  label: 十業多病不病門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-24
+    span:
+    - body
+    - 16503
+    - 16503
+  label: 十業醜好報門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-25
+    span:
+    - body
+    - 16654
+    - 16654
+  label: 十業生下上族門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-26
+    span:
+    - body
+    - 16840
+    - 16840
+  label: 禮塔十功德門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-27
+    span:
+    - body
+    - 16929
+    - 16929
+  label: 施蓋十功德門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-28
+    span:
+    - body
+    - 17021
+    - 17021
+  label: 施旛十功德門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-29
+    span:
+    - body
+    - 17119
+    - 17119
+  label: 施鈴十功德門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-30
+    span:
+    - body
+    - 17190
+    - 17190
+  label: 施衣十功德門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-31
+    span:
+    - body
+    - 17252
+    - 17252
+  label: 施器及飲食得十功德門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-32
+    span:
+    - body
+    - 17284
+    - 17284
+  label: 施香十功德門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-33
+    span:
+    - body
+    - 17358
+    - 17358
+  label: 施灯十功德門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0127_T_003-mulu-34
+    span:
+    - body
+    - 17427
+    - 17427
+  label: 恭敬合掌十功德門
+  type: mulu
+  level: 1
+hash: sha256:17d9e4c17caf1d998c72b2e3344895e07977836631ede69471b4c58272fe5503

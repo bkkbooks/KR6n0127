@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0127/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 勸發菩提心集
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1862.xml
+    old_id: T45n1862
+hash: sha256:cd95482bbbd302c0e2a7539ce8aafaaa5eb9efcf7fe5e61a64e2171a3ad99389
