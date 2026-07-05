@@ -25,13 +25,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0127_000.yaml, hash: 'sha256:cd95482bbbd302c0e2a7539ce8aafaaa5eb9efcf7fe5e61a64e2171a3ad99389'}
-  - {seq: 1, filename: KR6n0127_001.yaml, hash: 'sha256:806b42aa1a33a1779e8046bf6d4d648cd0b8f177330d110e9a8af6bcadb984a0'}
-  - {seq: 2, filename: KR6n0127_002.yaml, hash: 'sha256:691b766c921e696fc9a6726f67f0112bf68b66e486b1d5a7f219e6fce72daace'}
-  - {seq: 3, filename: KR6n0127_003.yaml, hash: 'sha256:36a45e54e1f71dce06b1a3dacd3c4ff43bcb93daf29bee3fef57e4dcce8ade5d'}
+  - {seq: 1, filename: KR6n0127_001.yaml, hash: 'sha256:1ec312141eb3ab68153f4b98acbee00dd8337b6cc4515b775f1651ecdee54d7a'}
+  - {seq: 2, filename: KR6n0127_002.yaml, hash: 'sha256:eb40d4cdb6173310148392119610fcd18e17e0f3b9ea2253732bf05816b180db'}
+  - {seq: 3, filename: KR6n0127_003.yaml, hash: 'sha256:bdde5ecf644047b99ee15898397131978f3d3a3df2537acddc4f2779d2381eff'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6n0127_001.markers.yaml, hash: 'sha256:13b30bfd7293c0ff190f6582e2a67f31a4a2b2b0ed906c67cfb1860e475332c7'}
-  - {seq: 2, role: markers, filename: assets/KR6n0127_002.markers.yaml, hash: 'sha256:73e2db6b915fd30ca96f61a3f7f8b3769087811a9858487e0f7b92c58406a281'}
-  - {seq: 3, role: markers, filename: assets/KR6n0127_003.markers.yaml, hash: 'sha256:2c6531b8c752e348e7838a73c2323f74cb5c8459796d55b9e1ab6ea887b53866'}
+  - {seq: 0, role: markers, filename: assets/KR6n0127_000.markers.yaml, hash: 'sha256:ad305ce76ab25737014529124f857a39b184c2dc9372fa414d127c4ee441e09b'}
+  - {seq: 1, role: markers, filename: assets/KR6n0127_001.markers.yaml, hash: 'sha256:0336107ff395e79dee4d659f13d01c660e56f1e397d563dc9f09a0b682a07e18'}
+  - {seq: 2, role: markers, filename: assets/KR6n0127_002.markers.yaml, hash: 'sha256:d4705ffe8eac5ee9a78fff08e8482e54a63035b9df09fd62ac2b4f66600077e2'}
+  - {seq: 3, role: markers, filename: assets/KR6n0127_003.markers.yaml, hash: 'sha256:02bf4fac79d1b89a41557c0715905701057b5d17e110dd01e4ac6640dc003c40'}
 table_of_contents:
 - ref:
     seq: 1
@@ -673,7 +674,4 @@ table_of_contents:
   label: 恭敬合掌十功德門
   type: mulu
   level: 1
-hash: sha256:67c8e143c8b316e24b014cd314ba132a82eae5bd98070e7a6478da72efc37388
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:046b6a6e420d5fc727c9d5ffd5ca8a49efab9ca47cf2eebde91f19952fc7be1d
